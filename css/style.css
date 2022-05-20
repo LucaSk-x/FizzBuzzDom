@@ -1,0 +1,8 @@
+body {
+    background-color: #083b4c;
+}
+
+.square {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+}
